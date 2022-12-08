@@ -1,0 +1,4 @@
+3) ABC company wants to increment the salary of employees 10% from 
+their current salary.But the MD of company set the one criteria,
+those the employee need to be work more than 3 years in this company.
+Help the HR of ABC company to achieve the task 
