@@ -1,0 +1,9 @@
+Steve is a programmer in Global Systems Inc.
+He has been assigned a task to create a Java application 
+that stores the following details about the 
+computer products in a text file:
+Product ID
+Product name
+Product price
+As the details are added, they must be appended in the 
+ProductDetails.txt file in the D:\Details directory.

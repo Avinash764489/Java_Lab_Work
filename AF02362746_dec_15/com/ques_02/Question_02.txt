@@ -1,0 +1,4 @@
+Create an application to retrieve information 
+(author ID, name, and city) about the authors who are 
+living in the city where the city name begins with the 
+letter “S”.
