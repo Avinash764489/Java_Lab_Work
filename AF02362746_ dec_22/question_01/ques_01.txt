@@ -1,0 +1,2 @@
+
+Q1.Wap to accept a number and check number is prime or not.

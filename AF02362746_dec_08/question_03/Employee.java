@@ -16,19 +16,19 @@ public class Employee {
 	}
 	
 	public static void main(String arg[]) {
-		List<Employee> e = new ArrayList<>();
-		e.add(new Employee("Amit", 4, 78955.00));
-		e.add(new Employee("Shital", 9, 45678.00));
-		e.add(new Employee("Anshu", 2, 67956.00));
-		e.add(new Employee("Rohit", 7, 34545.00));
-		e.add(new Employee("Ramesh", 1, 56576.00));
-		e.add(new Employee("Ajay", 2, 24344.00));
-		e.add(new Employee("Akash", 5, 678787.00));
+		List<Employees> e = new ArrayList<>();
+		e.add(new Employees("Amit", 4, 78955.00));
+		e.add(new Employees("Shital", 9, 45678.00));
+		e.add(new Employees("Anshu", 2, 67956.00));
+		e.add(new Employees("Rohit", 7, 34545.00));
+		e.add(new Employees("Ramesh", 1, 56576.00));
+		e.add(new Employees("Ajay", 2, 24344.00));
+		e.add(new Employees("Akash", 5, 678787.00));
 		
 		double s = 0; 
 		System.out.println(" name"+"\t"+"working year"+"\t"+" salary" );
 		System.out.println();
-		for(Employee s1:e) {
+		for(Employees s1:e) {
 			if(s1.workYear>2) {
 				s = s1.salary+(s1.salary/10);
 			}

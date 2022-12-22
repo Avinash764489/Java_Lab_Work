@@ -1,0 +1,2 @@
+
+Q2.WAP to accept a number and check number is palindrome or not.
