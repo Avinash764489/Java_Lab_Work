@@ -106,6 +106,7 @@ public class App {
 			}
 			default:
 				System.out.println('\n' + "Your chioce is invalid");
+				System.exit(0);
 			}
 			// ends of outer switch
 
@@ -244,7 +245,7 @@ public class App {
 //		stu.setName(name);
 //		// end of update name
 
-//		// update student name
+//		// update student password
 //		System.out.println('\n' + "Enter your new password");
 //		pass = sc.next();
 //		stu.setPassword(pass);
